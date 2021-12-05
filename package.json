@@ -1,0 +1,17 @@
+{
+  "name": "goodinfo_axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "upd": "node update.js",
+    "ast": "node asset.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "sqlite3": "^5.0.2"
+  }
+}
